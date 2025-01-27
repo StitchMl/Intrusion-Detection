@@ -1,4 +1,4 @@
-# **Intrusion Detection System - Machine Learning Project (2024/25)**
+# **Intrusion Detection System - Machine Learning Project (2024/25) - Tor Vergata**
 
 This repository contains the implementation of an **Intrusion Detection System (IDS)** using Machine Learning models, based on the **NSL-KDD** dataset. The project was developed as part of the **Machine Learning Course 2024/25**, focusing on supervised classification techniques to detect and classify network intrusions.
 
